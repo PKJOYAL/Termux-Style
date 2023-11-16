@@ -84,14 +84,14 @@ $ termux-style
 
     [Select Option]: 2
 
-    [Enter Color-scheme URL]: https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties
+    [Enter Color-scheme URL]: https://github.com/prashantkumarjoyal/Termux-Style.git
 
     [*] Reloading Settings...
     [*] Applied Successfully.
 ```
 
 + To import *local file*, enter the full path (e.g. - `/data/data/com.termux/files/home/spiderman.properties`) of the color-scheme.
-+ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) of the color-scheme.
++ To import *web file*, enter the file url (e.g. - `https://github.com/prashantkumarjoyal/Termux-Style.git`) of the color-scheme.
 <br />
 
 ### Previews
