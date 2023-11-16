@@ -99,7 +99,7 @@ $ termux-style
 
 |Colorschemes|Fonts|
 |--|--|
-|![img]([images/colors.gif](https://github.com/PKJOYAL/Termux-Style/blob/main/images/fonts.gif))|![img]([images/fonts.gif](https://github.com/PKJOYAL/Termux-Style/blob/main/images/fonts.gif))|
+|![img](main/images/fonts.gif)|![img](main/images/fonts.gif)|
 
 |Import - URL|Import - Local|
 |--|--|
