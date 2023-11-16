@@ -5,6 +5,7 @@
 
 > Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
 
+
 ---
 
 # Termux Style
