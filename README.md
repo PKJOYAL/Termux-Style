@@ -20,7 +20,7 @@
 
 Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
 
-![gif](images/main.gif) <br />
+![gif](https://github.com/PKJOYAL/Termux-Style/blob/main/images/main.gif) <br />
 
 > **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
 
@@ -99,7 +99,7 @@ $ termux-style
 
 |Colorschemes|Fonts|
 |--|--|
-|![img](images/colors.gif)|![img](images/fonts.gif)|
+|![img]([images/colors.gif](https://github.com/PKJOYAL/Termux-Style/blob/main/images/fonts.gif))|![img]([images/fonts.gif](https://github.com/PKJOYAL/Termux-Style/blob/main/images/fonts.gif))|
 
 |Import - URL|Import - Local|
 |--|--|
