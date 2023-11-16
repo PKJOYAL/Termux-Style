@@ -1,10 +1,7 @@
 <!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
+[paypal]:  https://paypal.me/prashantkumarkccpl?country.x=IN&locale.x=en_GB
 
-**`LAST Updated`** : `August 2023`
+**`LAST Updated`** : `November 2023`
 
 > Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
 
@@ -34,8 +31,8 @@ Follow the steps below -
 # Go to home dir - 
 cd $HOME
 
-# Clone this repository (use `gh repo clone adi1090x/termux-style` if you want to use the GitHub CLI)- 
-git clone https://github.com/adi1090x/termux-style
+# Clone this repository (use `gh repo clone prashantkumarjoyal/termux-style` if you want to use the GitHub CLI)- 
+git clone https://github.com/prashantkumarjoyal/Termux-Style.git
 
 # Change to termux-style dir -
 cd termux-style
@@ -58,7 +55,7 @@ $ termux-style
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
     └──────────────────────────────────────────────────┘
-    [*] By- JOYAL Group // adi1090x
+    [*] By- JOYAL Group // PKJoyal
 
     [C] Colors (89)
     [F] Fonts (20)
